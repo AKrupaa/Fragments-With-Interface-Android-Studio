@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AstroWeatherCz1</string>
+    <string name="actual_date"></string>
+</resources>
